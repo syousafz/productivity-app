@@ -1,0 +1,27 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "text": "Complete project proposal",
+      "deadline": "2022-10-15",
+      "status": true
+    },
+    {
+      "id": 1,
+      "text": "Review code changes",
+      "deadline": "2022-10-20",
+      "status": false
+    },
+    {
+      "id": 2,
+      "text": "Prepare presentation",
+      "deadline": "2022-10-25",
+      "status": false
+    },
+    {
+      "id": 1704735109167,
+      "text": "help me",
+      "status": false
+    }
+  ]
+}
